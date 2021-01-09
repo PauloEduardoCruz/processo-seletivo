@@ -6,7 +6,7 @@
 
 
 ## ❔ Sobre o projeto
- Este repositório foi criado para realizar o primeiro teste técnico do processo seletivo, para  a vaga de Engenheiro de Software.
+ Este repositório foi criado para realizar o primeiro teste técnico do processo seletivo.
 
 
 ## 📸 Screenshot
