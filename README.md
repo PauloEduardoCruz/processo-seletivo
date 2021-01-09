@@ -1,8 +1,8 @@
 
 ## 📌 Index
 - [Sobre o projeto](#-sobre-o-projeto)
-- [Screenshot](#-screenshots)
-- [Instalação e Start](#-instalação-e-start)
+- [Screenshot](#-screenshot)
+- [Instalação e Start](#-instalação-e-testes)
 
 
 ## ❔ Sobre o projeto
@@ -10,7 +10,7 @@
 
 
 ## 📸 Screenshot
- <h1 align="center">
+<h1 align="center">
   <img src="./app.png" alt="Landing" width="1000px" />
 </h1>
 
@@ -19,7 +19,7 @@
 
 Acesse o link para vizualizar o sitema: 
 ```bash
-> app https://pauloeduardocruz.github.io/processo-seletivo/
+https://pauloeduardocruz.github.io/processo-seletivo/
 ```
 
 Para acessar o código baixe o arquivo zip ou clone o repositório com:
