@@ -25,5 +25,5 @@ https://pauloeduardocruz.github.io/processo-seletivo/
 Para acessar o código baixe o arquivo zip ou clone o repositório com:
 
 ```bash
-> git clone https://github.com/PauloEduardoCruz/Basketball-finder.git
+> git clone https://github.com/PauloEduardoCruz/processo-seletivo.git
 ```
