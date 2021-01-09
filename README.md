@@ -2,7 +2,7 @@
 ## 📌 Index
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Screenshot](#-screenshot)
-- [Instalação e Start](#-instalação-e-testes)
+- [Instalação e Testes](#-instalação-e-testes)
 
 
 ## ❔ Sobre o projeto
@@ -17,7 +17,7 @@
 
 ## ⚙ Instalação e Testes
 
-Acesse o link para vizualizar o sitema: 
+Acesse o link para visualizar o sistema:
 ```bash
 https://pauloeduardocruz.github.io/processo-seletivo/
 ```
